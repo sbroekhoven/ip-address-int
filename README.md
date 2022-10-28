@@ -113,3 +113,22 @@ UFINET PANAMA S.A.                                   28      0.004603
 Alibaba US Technology Co., Ltd.                      28      0.004603
 VNPT Corp                                            27      0.004439
 ```
+
+And in CSV format:
+
+| ip_address      | country_code | country       | subdivisions               | city                     | asn    | organization                                     |
+| --------------- | ------------ | ------------- | -------------------------- | ------------------------ | ------ | ------------------------------------------------ |
+| 129.159.88.228  | US           | United States | Virginia                   | Ashburn                  | 31898  | ORACLE-BMC-31898                                 |
+| 129.18.210.126  | NG           | Nigeria       | Lagos                      | Lagos                    | 36923  | SWIFTNG-ASN                                      |
+| 129.205.118.226 | NG           | Nigeria       | Lagos                      | Lagos                    | 37148  | globacom-as                                      |
+| 129.222.7.145   | US           | United States | Illinois                   | Chicago                  | 14593  | SPACEX-STARLINK                                  |
+| 129.227.133.105 | HK           | Hong Kong     |                            |                          | 21859  | ZEN-ECN                                          |
+| 129.41.171.244  | US           | United States |                            |                          | 2002   | IBM-PV-AS                                        |
+| 130.185.213.146 | BG           | Bulgaria      | Yambol                     | Yambol                   | 48917  | Optinet Ltd                                      |
+| 130.193.43.127  | RU           | Russia        |                            |                          | 200350 | Yandex.Cloud LLC                                 |
+| 131.0.226.198   | BR           | Brazil        | Pernambuco                 | Recife                   | 52965  | 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA |
+| 131.100.49.23   | CO           | Colombia      | Departamento del Magdalena | Florencia                | 270062 | FIBERNET TV SAS                                  |
+| 131.100.51.250  | CO           | Colombia      | Departamento del Caqueta   | El Doncello              | 270062 | FIBERNET TV SAS                                  |
+| 131.108.118.27  | BR           | Brazil        | Goias                      | Catalao                  | 264353 | Catalao Bandnet Servicos Multimidia LTDA - ME    |
+| 131.108.220.49  | BR           | Brazil        | Sergipe                    | Nossa Senhora do Socorro | 61693  | RODRIGO MATTARAGGIA - ME                         |
+| 131.108.51.5    | BR           | Brazil        | Bahia                      | Jeremoabo                | 61687  | PRO NET EMPREENDIMENTOS TECNOLOGICOS LTDA        |
