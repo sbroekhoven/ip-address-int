@@ -24,6 +24,7 @@ $ python maxmind_example.py input/samples.txt
 /home/sebastian/Code/ip-address-int/output/samples.txt.csv
 Total IP addresses: 6084
 Unique IP addresses: 5389
+
 AS-COLOCROSSING                              846
 SERVER-MANIA                                 818
 JSC ER-Telecom Holding                        97
@@ -45,6 +46,7 @@ UFINET PANAMA S.A.                            28
 Alibaba US Technology Co., Ltd.               28
 VNPT Corp                                     27
 Name: organization, dtype: int64
+
 United States     2055
 Indonesia          619
 Russia             292
@@ -66,6 +68,7 @@ Iraq                58
 France              57
 Peru                56
 Name: country, dtype: int64
+
 Buffalo          380
 Los Angeles      258
 Chicago           92
@@ -87,6 +90,7 @@ Salem             31
 Honolulu          30
 Singapore         30
 Name: city, dtype: int64
+
                                            organization  organization
 AS-COLOCROSSING                                     846      0.139076
 SERVER-MANIA                                        818      0.134473
